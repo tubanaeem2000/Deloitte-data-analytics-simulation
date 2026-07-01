@@ -2,6 +2,8 @@
 
 This repository contains my completed work for the **Deloitte Australia Data Analytics** virtual job simulation on [Forage](https://www.theforage.com/), covering telemetry data analysis with Tableau and a forensic pay-equality audit in Excel.
 
+<img width="960" height="540" alt="Task 01 _ SS" src="https://github.com/user-attachments/assets/abede6d4-e049-4335-89ed-39fd8abac5f7" />
+
 ## 📋 About the Simulation
 
 Daikibo Industrials is a fictional multinational manufacturing company. As a member of Deloitte's Data & Analytics practice, the simulation involved two client-facing tasks:
