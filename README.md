@@ -7,22 +7,7 @@ This repository contains my completed work for the **Deloitte Australia Data Ana
 Daikibo Industrials is a fictional multinational manufacturing company. As a member of Deloitte's Data & Analytics practice, the simulation involved two client-facing tasks:
 
 1. **Data Analysis** – Investigate machine downtime across Daikibo's factories using IoT telemetry data in Tableau.
-2. **Forensic Technology** – Support an internal investigation into gender pay equality by classifying an "Equality Score" dataset in Excel.
-
-## 🗂️ Repository Structure
-
-```
-├── task-1-data-analysis/
-│   ├── daikibo-telemetry-data.json.zip   # Raw IoT telemetry dataset (~160k records)
-│   ├── dashboard_reference.png           # Reference screenshot of the final Tableau dashboard
-│   └── daikibo-dashboard.twbx            # (optional) Tableau packaged workbook
-│
-├── task-2-forensic-technology/
-│   ├── Equality_Table.xlsx               # Original dataset (Factory, Job Role, Equality Score)
-│   └── Equality_Table_solved.xlsx        # Completed dataset with Equality Class column
-│
-└── README.md
-```
+2. **Forensic Technology** – Support an internal investigation into gender pay equality by classifying an "Equality Score" dataset in Excel.`
 
 ## 🔧 Task 1: Data Analysis
 
@@ -37,8 +22,6 @@ Daikibo Industrials is a fictional multinational manufacturing company. As a mem
 - Combined both into a single dashboard, using the factory chart as a filter for the device-type chart.
 
 **Key finding:** `daikibo-factory-seiko` had the highest total downtime (480 minutes), driven entirely by its **LaserWelder** units.
-
-![Dashboard reference](task-1-data-analysis/dashboard_reference.png)
 
 ## ⚖️ Task 2: Forensic Technology
 
@@ -67,7 +50,7 @@ Implemented as a live Excel formula (not a hardcoded value), so it recalculates 
 
 ## 🎓 About
 
-Completed by **Tuba** as part of the Deloitte Australia Data Analytics job simulation, as portfolio evidence of Tableau dashboarding and Excel data classification skills.
+Completed by **Tuba Naeem** as part of the Deloitte Australia Data Analytics job simulation, as portfolio evidence of Tableau dashboarding and Excel data classification skills.
 
 ## 📜 Certificate
 
